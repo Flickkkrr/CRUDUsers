@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestor de usuarios</string>
+    <string name="users">CRUD usuarios Lab4U</string>
+    <string name="add_user">Agregar/modificar usuario</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="age">Edad</string>
+</resources>
